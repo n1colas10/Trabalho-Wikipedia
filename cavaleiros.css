@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');*{
+    font-family: 'Montserrat', sans-serif;
+}
+
+body{
+    background-color: rgb(245, 245, 245);
+    font-family: 'Montserrat';
+}
+
+p{
+
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    margin-left: 1.5rem;
+    margin-top: 1.5rem;
+    margin-right: 1.5rem;
+
+}
+
+ul{
+
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 39px;
+    text-decoration: underline;
+
+}
+
+
+.title{
+
+    width: 800px;
+    height: 59px;
+    left: 131px;
+    top: 170px;
+
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 59px;
+    font-style: italic;
+
+    text-align: center;
+
+}
+
+.title2{
+
+    height: 2px;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 59px;
+
+    text-align: start;
+    text-align: center;
+}
+
+.title3{
+
+    width: 300px;
+    height: 54px;
+    left: 131px;
+    top: 1275px;
+
+    font-style: normal;
+    font-weight: 500;
+    font-size: 44px;
+    line-height: 54px;
+    text-align: center;
+
+}
+
+.title4{
+
+    width: 300px;
+    height: 54px;
+    left: 131px;
+
+    font-style: normal;
+    font-weight: 600;
+    font-size: 44px;
+    line-height: 54px;
+
+    text-align: center;
+
+}
+
+.box{
+
+    background-color: white;
+    box-shadow: 50px;
+    margin-left: 120px;
+    margin-right: 120px;
+    height: 3800px;
+
+}
+
+.logo{
+
+    margin-left: 120px;
+}
+
+#line{
+
+    width:1500px ;
+    margin-left:30px ;
+    border: 1px solid #CCCCCC;
+
+}
+
+#list{
+
+    box-sizing: border-box;
+    width: 394px;
+    height: 424px;
+    left: 131px;
+    top: 350px;
+    margin-left: 2rem;
+    margin-top: 100px;
+    margin-bottom: 100px;
+
+    background: #70C3FF;
+    border: 1px solid #000000;
+
+}
+
+#list2{
+
+    box-sizing: border-box; 
+    width: 392px;
+    height: 316.5px;
+    left: 132px;
+    top: 700px;
+    margin-top: 70px;
+
+    background: #FFFFFF;
+    border-top: 1px solid #000000;
+
+}
